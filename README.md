@@ -3,7 +3,7 @@ A light-weight, C++, header-only library for writing coloured text in the consol
 
 ![Screenshot](screenshot.png)
 
-[Try it.](demo/demo.exe)
+[Try it.](demo/Demo.exe)
 
 ## Example Usage
 
@@ -56,4 +56,4 @@ std::cout << colors::style::rainbow("Hello, world!") << colors::style::rainbow("
 - `colors::init_console()` may not work in C
 
 ## Licence
-[GPL V3](LICENCE.txt)
+[GPLv3](LICENCE.txt)
