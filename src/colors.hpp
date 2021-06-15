@@ -1,8 +1,11 @@
+#ifndef COLORS_H
+#define COLORS_H
+
 #include <string>
 #include <vector>
 #include <windows.h>
 
-namespace colors {
+inline namespace colors {
 
     // Initialises the console so the ANSCI colour codes colour text.
     void init_console() {
@@ -72,3 +75,5 @@ namespace colors {
     }
 
 }
+
+#endif
