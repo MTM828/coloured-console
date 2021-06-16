@@ -3,7 +3,7 @@ A light-weight, C++, header-only library for writing coloured text in the consol
 
 ![Screenshot](screenshot.png)
 
-[Try it.](demo/Demo.exe)
+[Try it.](https://raw.githubusercontent.com/MTM828/coloured-console/main/demo/Demo.exe)
 
 ## Example Usage
 
