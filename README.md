@@ -7,7 +7,7 @@ A light-weight, C++, header-only library for writing coloured text in the consol
 
 ## Example Usage
 
-### Basic Program
+### Simple Program
 ```c++
 #include <iostream>
 #include "colors.hpp"
